@@ -4,3 +4,5 @@ This repository contains all assignment notebooks, data analysis, and code devel
 This work is released under the MIT License
 - [Assignment 2: Joining Data Framses](./Assignment_2/2_02_Joining_DataFramesCOMPLETED.ipynb)
 This work is relesaed under the MIT Licence
+- [Assignment 3: Calculated Fields and indexing](./Assignment_3/2_03_Calculated_Fields,_Indexing_and_SubsettingCOMPLETED.ipynb)
+This work is released under the MIT Licence
