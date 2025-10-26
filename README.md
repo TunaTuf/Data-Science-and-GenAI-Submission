@@ -8,3 +8,5 @@ This work is relesaed under the MIT Licence
 This work is released under the MIT Licence
 - [Assignment 4: Transforms and Concatenation](2_04_Transforms_and_ConcatenationCOMPLETED.ipynb)
 This work is released under the MIT Licence
+- [Assignment 5: Explaratory Data Analysis](2_05_Exploratory_Data_AnalysisCOMPLETED.ipynb)
+This work is released under the MIT Licence
