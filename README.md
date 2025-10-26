@@ -6,3 +6,5 @@ This work is released under the MIT License
 This work is relesaed under the MIT Licence
 - [Assignment 3: Calculated Fields and indexing](2_03_Calculated_Fields,_Indexing_and_SubsettingCOMPLTED.ipynb)
 This work is released under the MIT Licence
+- [Assignment 4: Transforms and Concatenation](2_04_Transforms_and_ConcatenationCOMPLETED.ipynb)
+This work is released under the MIT Licence
