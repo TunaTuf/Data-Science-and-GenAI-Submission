@@ -10,3 +10,5 @@ This work is released under the MIT Licence
 This work is released under the MIT Licence
 - [Assignment 5: Explaratory Data Analysis](2_05_Exploratory_Data_AnalysisCOMPLETED.ipynb)
 This work is released under the MIT Licence
+- [Assignment 6: Linear Regression](4_01_Linear_Regression_(statistics_vs_machine_learning)COMPLETED.ipynb)
+This work is released under the MIT Licence
