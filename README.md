@@ -12,3 +12,5 @@ This work is released under the MIT Licence
 This work is released under the MIT Licence
 - [Assignment 6: Linear Regression](4_01_Linear_Regression_(statistics_vs_machine_learning)COMPLETED.ipynb)
 This work is released under the MIT Licence
+- [Assignment 6: Logistics Regression](4_02_Logistics_RegressionCOMPLETED.ipynb)
+This work is released under the MIT Licence
